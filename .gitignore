@@ -1,0 +1,12 @@
+admin-portal/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
